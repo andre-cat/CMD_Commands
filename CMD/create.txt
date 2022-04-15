@@ -1,0 +1,1 @@
+copy nul file_name.extension > nul
